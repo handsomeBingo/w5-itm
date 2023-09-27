@@ -1,0 +1,50 @@
+{
+  "chunks": {
+    "byName": {
+      "bundle1": 71
+    },
+    "bySource": {
+      "0 ../../../../../../mpxRelativeRootPlaceholder/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].use[0]!../../../../../../mpxRelativeRootPlaceholder/src/some-dir/a.js ./b": 130,
+      "0 ../../../../../../mpxRelativeRootPlaceholder/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].use[0]!../../../../../../mpxRelativeRootPlaceholder/src/some-dir/a.js ./c": 472,
+      "0 ../../../../../mpxRelativeRootPlaceholder/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].use[0]!../../../../../mpxRelativeRootPlaceholder/src/some-dir/a.js ./b": 122,
+      "0 ../../../../../mpxRelativeRootPlaceholder/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].use[0]!../../../../../mpxRelativeRootPlaceholder/src/some-dir/a.js ./c": 171,
+      "0 ./node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].use[0]!../../../../../../mpxRelativeRootPlaceholder/src/some-dir/a.js ./b": 235,
+      "0 ./node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].use[0]!../../../../../../mpxRelativeRootPlaceholder/src/some-dir/a.js ./c": 581,
+      "0 ./node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].use[0]!./src/some-dir/a.js ./b": 548,
+      "0 ./node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].use[0]!./src/some-dir/a.js ./c": 330,
+      "0 bundle1": 71
+    },
+    "usedIds": [
+      71,
+      330,
+      548
+    ]
+  },
+  "modules": {
+    "byIdentifier": {
+      "../../../../../../mpxRelativeRootPlaceholder/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].use[0]!../../../../../../mpxRelativeRootPlaceholder/src/index.js|2fde9c33237292bc02ccae44922d0091": 708,
+      "../../../../../../mpxRelativeRootPlaceholder/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].use[0]!../../../../../../mpxRelativeRootPlaceholder/src/some-dir/b.js": 130,
+      "../../../../../../mpxRelativeRootPlaceholder/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].use[0]!../../../../../../mpxRelativeRootPlaceholder/src/some-dir/c.js|ebffb4fcdff70c317c2b7e0f3d5dfaf1": 472,
+      "../../../../../../mpxRelativeRootPlaceholder/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].use[0]!../../../../../../mpxRelativeRootPlaceholder/src/some-dir/f.js": 980,
+      "../../../../../mpxRelativeRootPlaceholder/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].use[0]!../../../../../mpxRelativeRootPlaceholder/src/index.js|2fde9c33237292bc02ccae44922d0091": 768,
+      "../../../../../mpxRelativeRootPlaceholder/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].use[0]!../../../../../mpxRelativeRootPlaceholder/src/some-dir/b.js": 122,
+      "../../../../../mpxRelativeRootPlaceholder/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].use[0]!../../../../../mpxRelativeRootPlaceholder/src/some-dir/c.js|ebffb4fcdff70c317c2b7e0f3d5dfaf1": 171,
+      "../../../../../mpxRelativeRootPlaceholder/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].use[0]!../../../../../mpxRelativeRootPlaceholder/src/some-dir/f.js": 764,
+      "./node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].use[0]!../../../../../../mpxRelativeRootPlaceholder/src/index.js|9f18b07d49899b9322e7880b74ddb675": 824,
+      "./node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].use[0]!../../../../../../mpxRelativeRootPlaceholder/src/some-dir/b.js": 235,
+      "./node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].use[0]!../../../../../../mpxRelativeRootPlaceholder/src/some-dir/c.js|003c9099807979d1f2b46b50f290f649": 581,
+      "./node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].use[0]!../../../../../../mpxRelativeRootPlaceholder/src/some-dir/f.js": 43,
+      "./node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].use[0]!./src/index.js|2fde9c33237292bc02ccae44922d0091": 181,
+      "./node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].use[0]!./src/some-dir/b.js": 548,
+      "./node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].use[0]!./src/some-dir/c.js|ebffb4fcdff70c317c2b7e0f3d5dfaf1": 330,
+      "./node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].use[0]!./src/some-dir/f.js": 48,
+      "./node_modules/module-foo.js": 372
+    },
+    "usedIds": [
+      48,
+      181,
+      330,
+      548
+    ]
+  }
+}
