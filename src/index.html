@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Title</title>
+  <link rel="stylesheet" href="./index.css">
+  <style>
+    .cylinder {
+      position: relative;
+      perspective: 1000px;
+      transform-style: preserve-3d;
+      overflow: hidden;
+      width: 200px;
+      height: 50px;
+      /*animation: rotate 10s infinite;*/
+    }
+
+    @keyframes rotate {
+      0% {
+        transform: rotateX(0deg);
+      }
+      100% {
+        transform: rotateX(360deg);
+      }
+    }
+
+    .side {
+      position: absolute;
+      width: 200px;
+      height: 50px;
+      box-sizing: border-box;
+      color: red;
+      text-align: center;
+      line-height: 50px;
+      background-color: rgba(0, 0, 0, 0.2);
+      backface-visibility: hidden;
+      transform: translateZ(50px);
+      border: 1px solid green;
+    }
+
+    .side1 {
+      transform: rotateX(0deg);
+    }
+
+    .side2 {
+      transform: rotateX(120deg);
+    }
+
+    .side3 {
+      transform: rotateX(240deg);
+    }
+  </style>
+</head>
+<body>
+<div class="cylinder">
+  <div class="side side1">Face 1</div>
+  <div class="side side2">Face 2</div>
+  <div class="side side3">Face 3</div>
+</div>
+<div class="cntnr5">
+  <div class="item item-a"></div>
+  <div class="item item-a"></div>
+  <div class="item item-a"></div>
+  <div class="item item-a"></div>
+  <div class="item item-b"></div>
+  <div class="item item-b"></div>
+  <div class="item item-c"></div>
+  <div class="item item-d"></div>
+  <div class="item item-d"></div>
+  <div class="item item-d"></div>
+  <div class="item item-d"></div>
+</div>
+<hr>
+<div class="cntnr6">
+  <div class="item one"></div>
+  <div class="item one"></div>
+  <div class="item one"></div>
+  <div class="item two"></div>
+  <div class="item three"></div>
+  <div class="item three"></div>
+  <div class="item two"></div>
+  <div class="item three"></div>
+  <div class="item three"></div>
+</div>
+
+
+</body>
+</html>

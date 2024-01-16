@@ -1,0 +1,42 @@
+{
+  "chunks": {
+    "byName": {
+      "bundle1": 71
+    },
+    "bySource": {
+      "0 ../../../../../mpxRelativeRootPlaceholder/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].use[0]!../../../../../mpxRelativeRootPlaceholder/src/some-dir/a.js ./b": 764,
+      "0 ../../../../../mpxRelativeRootPlaceholder/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].use[0]!../../../../../mpxRelativeRootPlaceholder/src/some-dir/a.js ./c": 764,
+      "0 ./node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].use[0]!./src/some-dir/a.js ./b": 48,
+      "0 ./node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].use[0]!./src/some-dir/a.js ./c": 48,
+      "0 bundle1": 71,
+      "1 ../../../../../mpxRelativeRootPlaceholder/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].use[0]!../../../../../mpxRelativeRootPlaceholder/src/some-dir/a.js ./b": 122,
+      "1 ../../../../../mpxRelativeRootPlaceholder/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].use[0]!../../../../../mpxRelativeRootPlaceholder/src/some-dir/a.js ./c": 171,
+      "1 ./node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].use[0]!./src/some-dir/a.js ./b": 548,
+      "1 ./node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].use[0]!./src/some-dir/a.js ./c": 330
+    },
+    "usedIds": [
+      71,
+      122,
+      171,
+      764
+    ]
+  },
+  "modules": {
+    "byIdentifier": {
+      "../../../../../mpxRelativeRootPlaceholder/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].use[0]!../../../../../mpxRelativeRootPlaceholder/src/index.js|2fde9c33237292bc02ccae44922d0091": 768,
+      "../../../../../mpxRelativeRootPlaceholder/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].use[0]!../../../../../mpxRelativeRootPlaceholder/src/some-dir/b.js": 122,
+      "../../../../../mpxRelativeRootPlaceholder/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].use[0]!../../../../../mpxRelativeRootPlaceholder/src/some-dir/c.js|ebffb4fcdff70c317c2b7e0f3d5dfaf1": 171,
+      "../../../../../mpxRelativeRootPlaceholder/node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].use[0]!../../../../../mpxRelativeRootPlaceholder/src/some-dir/f.js": 764,
+      "./node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].use[0]!./src/index.js|2fde9c33237292bc02ccae44922d0091": 181,
+      "./node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].use[0]!./src/some-dir/b.js": 548,
+      "./node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].use[0]!./src/some-dir/c.js|ebffb4fcdff70c317c2b7e0f3d5dfaf1": 330,
+      "./node_modules/babel-loader/lib/index.js??ruleSet[1].rules[0].use[0]!./src/some-dir/f.js": 48
+    },
+    "usedIds": [
+      122,
+      171,
+      764,
+      768
+    ]
+  }
+}
